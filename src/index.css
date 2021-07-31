@@ -26,7 +26,7 @@ body, html {
 
 .textBox {
   background-color: rgba(97, 97, 97, 0.769);
-  height: auto;
+  max-height: 600px;
   width: 100%;
   overflow: scroll;
   padding-top: 10px;

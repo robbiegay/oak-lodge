@@ -9,7 +9,9 @@ export default function Home() {
         <>
             <div className="backgroundImage">
                 <NavBar />
+
                 <br /><br /><br /><br />
+                
                 <Container>
                     <Row>
                         <Col xs={1} />
