@@ -43,6 +43,8 @@ export default function About() {
                                 <p>
                                     Renovation included: adding a bathroom and two porch (one covered, one uncovered, to the back of the cabin; flipping the orientation of the stairs to provide better flow to the loft; chinking and repairing exterior damage that occurred during the cabin’s vacancy. One thing that did not need much work was the 200 year old white oak logs — they were still in pristine condition.
                                 </p>
+
+                                <p>Website built by <a href="https://www.robbiegay.art/" title="Robbie Gay's Website">Robbie Gay</a></p>
                             </TextBox>
                         </Col>
                         <Col xs={5} />
