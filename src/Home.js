@@ -1,14 +1,59 @@
 import './App.css';
 import React from "react";
-import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import NavBar from "./NavBar";
-
+import TextBox from "./TextBox";
 
 export default function Home() {
     return (
         <>
-            <NavBar />
-            <p>Home</p>
+            <div className="backgroundImage">
+                <NavBar />
+                <br /><br /><br /><br />
+                <Container>
+                    <Row>
+                        <Col xs={1} />
+                        <Col>
+                            <TextBox>
+                                <h2>
+                                    The Oak Lodge
+                                </h2>
+                                <p>
+                                    Located between Wild Turkey and Four Roses distillery, The Oak Lodge is a restored 1818 log cabin in <a href="https://visitlawrenceburgky.com/" title="Visit Lawrenceburg">Lawrenceburg, KY</a>. Fully restored in 2021, the cabin features original oak logs, refinished plank flooring, gas fireplace, full kitchen, and both a screened and open air porch. The cabin sleeps 5 ⁠— 2 in the double beds in the upstairs loft, and 1 on the downstairs fold-out couch.
+                                </p>
+                                <ul>
+                                    <li>
+                                        <a href="https://fourrosesbourbon.com/visit/distillery-tours/#curated_tours_list_name=four_roses_distillery_lawrenceburg_ky" title="Four Roses Distillery">Four Roses Distillery</a>: 7 minutes
+                                    </li>
+                                    <li>
+                                        <a href="https://wildturkeybourbon.com/visit-us/" title="Wild Turkey Distillery">Wild Turkey Distillery</a>: 8 minutes
+                                    </li>
+                                    <li>
+                                        <a href="https://visitfrankfort.com/" title="Visit Frankfort">Frankfort</a>: 23 minutes
+                                    </li>
+                                    <li>
+                                        <a href="https://bluegrassairport.com/index.html" title="Bluegrass Airport">Bluegrass Airport</a>: 24 minutes
+                                    </li>
+                                    <li>
+                                        <a href="https://www.visitlex.com/" title="Visit Lex">Lexington</a>: 34 minutes
+                                    </li>
+                                </ul>
+                                <p>
+                                    Rate: $250 per night + 6% tax
+                                </p>
+                                <p>
+                                    Price includes cleaning fee. Excessive mess or damage to property may result in additional expenses. Certain high demand periods may require a minimum stay (bourbon chase, Keeneland, etc.)
+                                </p>
+                                <p>
+                                    To inquire about availability or book a stay, please email Judi Fryer at: example@oaklodge1818.com
+                                </p>
+                            </TextBox>
+                        </Col>
+                        <Col xs={5} />
+                    </Row>
+                </Container>
+
+            </div>
         </>
-        );
-    }
+    );
+}

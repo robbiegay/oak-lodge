@@ -6,8 +6,10 @@ import NavBar from "./NavBar";
 export default function About() {
     return (
         <>
-            <NavBar />
-            <p>About</p>
+            <div className="backgroundImage">
+                <NavBar />
+                <p>About</p>
+            </div>
         </>
-        );
-    }
+    );
+}

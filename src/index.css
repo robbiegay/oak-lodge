@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body, html {
+  height: 100%;
+}
+  
+.backgroundImage {
+  background-image: url("./backgroundImages/front.JPG");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.textBox {
+  background-color: rgba(97, 97, 97, 0.769);
+  height: auto;
+  width: 100%;
+  overflow: scroll;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(255, 255, 255);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(181, 181, 181);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(106, 106, 106);
+}
+
+/* selected link */
+a:active {
+  color: rgb(199, 199, 255);
+}
+
+.darkBorder {
+  border: solid;
+  border-width: 5px;
+}
