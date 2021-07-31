@@ -18,8 +18,8 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/front.JPG"}
-                                        alt="First slide"
+                                        src={process.env.PUBLIC_URL + "/images/front1.JPG"}
+                                        alt="The front yard"
                                     />
                                     <Carousel.Caption>
                                         <h3>The front yard</h3>
@@ -29,20 +29,195 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/upstairs.JPG"}
-                                        alt="Second slide"
+                                        src={process.env.PUBLIC_URL + "/images/front2.JPG"}
+                                        alt="The front yard"
                                     />
-
                                     <Carousel.Caption>
-                                        <h3>Upstairs Loft</h3>
-                                        <p>Two double beds; sitting area with Keurig machine</p>
+                                        <h3>The front yard</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main1.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main2.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main3.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main4.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main5.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main6.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/main7.JPG"}
+                                        alt="Main room of the first floor"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Main room of the first floor</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/bathroom.JPG"}
+                                        alt="First floor bathroom"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>First floor bathroom</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/porch1.JPG"}
+                                        alt="Screened in porch"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Screened in porch</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/porch2.JPG"}
+                                        alt="Screened in porch"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Screened in porch</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/porch3.JPG"}
+                                        alt="Screened in porch"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Screened in porch</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/back1.JPG"}
+                                        alt="Backyard"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Backyard</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/back2.JPG"}
+                                        alt="Backyard"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Backyard</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/upstairs1.JPG"}
+                                        alt="Upstairs loft"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Upstairs loft</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/upstairs2.JPG"}
+                                        alt="Upstairs loft"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Upstairs loft</h3>
+                                        <p></p>
+                                    </Carousel.Caption>
+                                </Carousel.Item>
+                                <Carousel.Item>
+                                    <img
+                                        className="d-block w-100"
+                                        src={process.env.PUBLIC_URL + "/images/bobAndJudi.JPG"}
+                                        alt="Owners Bob and Judi Fryer"
+                                    />
+                                    <Carousel.Caption>
+                                        <h3>Owners Bob and Judi Fryer</h3>
+                                        <p></p>
                                     </Carousel.Caption>
                                 </Carousel.Item>
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
                                         src={process.env.PUBLIC_URL + "/images/backRenovations.JPG"}
-                                        alt="Third slide"
+                                        alt="Back additions"
                                     />
 
                                     <Carousel.Caption>
@@ -54,7 +229,7 @@ export default function Photos() {
                                     <img
                                         className="d-block w-100"
                                         src={process.env.PUBLIC_URL + "/images/stairRenovations.JPG"}
-                                        alt="Forth slide"
+                                        alt="Stairs Before"
                                     />
 
                                     <Carousel.Caption>
@@ -66,7 +241,7 @@ export default function Photos() {
                                     <img
                                         className="d-block w-100"
                                         src={process.env.PUBLIC_URL + "/images/stairRenovations2.JPG"}
-                                        alt="Fifth slide"
+                                        alt="Stairs After"
                                     />
 
                                     <Carousel.Caption>
@@ -78,7 +253,7 @@ export default function Photos() {
                                     <img
                                         className="d-block w-100"
                                         src={process.env.PUBLIC_URL + "/images/stairRenovations3.JPG"}
-                                        alt="Sisth slide"
+                                        alt="Chainsaw"
                                     />
 
                                     <Carousel.Caption>
