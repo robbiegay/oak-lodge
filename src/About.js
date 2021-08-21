@@ -22,15 +22,15 @@ export default function About() {
                                 </h2>
 
                                 <p>
-                                    The Oak Lodge was built by the Routt family in 1818. The Routt family married into the Bond family, and the cabin was a residence for the Routt/Bonds. The Bonds became well known in the Bourbon industry. John Bond began producing bourbon in Anderson county in 1820. in 1842, John left the company to his son and grandson, David and William. William later formed a partnership with his brother-in-law, C.C. Lillard in 1869 and they began labeling the product Lillard & Bond. The business stayed in the family until 1899 and was so renowned as to win the Grand Prize at the World Fair in 1904 in St. Louis [<a href="https://www.qualityliquorstore.com/bond-lillard-bourbon-whiskey/" title="Bond & Lillard Bourbon 375ml">1</a>]. After prohibition, major liquor firms began buying the rights to smaller companies, and Bond & Lillard was acquired by Wild Turkey. Wild Turkey currently produces a bottle of Lillard & Bond based off tasting notes from the 1904 world fair.
+                                    The Oak Lodge was built by the Routt family in 1818. The Routt family married into the Bond family, and the cabin was a residence for the Routt/Bonds. The Bonds became well known in the Bourbon industry. John Bond began producing bourbon in Anderson county in 1820. in 1842, John left the company to his son and grandson, David and William. William later formed a partnership with his brother-in-law, C.C. Lillard in 1869 and they began labeling the product Bond & Lillard. The business stayed in the family until 1899 and was so renowned as to win the Grand Prize at the World Fair in 1904 in St. Louis [<a href="https://www.qualityliquorstore.com/bond-lillard-bourbon-whiskey/" title="Bond & Lillard Bourbon 375ml">1</a>]. After prohibition, major liquor firms began buying the rights to smaller companies, and Bond & Lillard was acquired by Wild Turkey. Wild Turkey currently produces a bottle of Bond & Lillard based on tasting notes from the 1904 world fair.
                                 </p>
 
                                 <p>
-                                    Beyond its use as a private residence from the Routt and Bond families, the cabin has served many uses over the years: restaurant, barber shop, and antique store. Rumor has it, that United States president __ had an affair at the cabin in __.
+                                    Beyond its use as a private residence from the Routt and Bond families, the cabin has served many uses over the years: road house, restaurant, barber shop, and antique store (Susan Band in 1940's).
                                 </p>
 
                                 <p>
-                                    The cabin was originally located about __ feet n/s/e/w and was moved to its present location in 1934.
+                                    The cabin was originally located Cedar Creek in Anderson county and was moved to its present location in 1934.
                                 </p>
 
                                 <h2>
@@ -44,7 +44,13 @@ export default function About() {
                                     Renovation included: adding a bathroom and two porch (one covered, one uncovered, to the back of the cabin; flipping the orientation of the stairs to provide better flow to the loft; chinking and repairing exterior damage that occurred during the cabin’s vacancy. One thing that did not need much work was the 200 year old white oak logs — they were still in pristine condition.
                                 </p>
 
-                                <p>Website built by <a href="https://www.robbiegay.art/" title="Robbie Gay's Website">Robbie Gay</a></p>
+                                <p>
+                                    Website built by <a href="https://www.robbiegay.art/" title="Robbie Gay's Website">Robbie Gay</a>
+                                </p>
+
+                                <p>
+                                    Many photos contributed by <a href="https://lawrenceburgky.org/listing/troy-young/" title="Troy L. Young Government Directory">Troy L. Young</a>
+                                </p>
                             </TextBox>
                         </Col>
                         <Col xs={5} />
