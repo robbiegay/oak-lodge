@@ -4,6 +4,17 @@ import { Container, Row, Col } from "react-bootstrap";
 import NavBar from "./NavBar";
 import TextBox from "./TextBox";
 
+/*
+This website is dedicated to Robert Newton Fryer IV
+June 21st, 1937 - August 4th, 2021
+
+Robbie built this site for his Grandfather Bob
+They had lunch on July 31st, 2021 to discuss the plan for the site
+That day, Robbie built a rough draft and that evening he showed the website to Bob and Judi
+They had a great dinner discussing the website and talking about Bob's service in the Navy
+That was the last time Robbie saw his grandfather
+*/
+
 export default function Home() {
     return (
         <>
