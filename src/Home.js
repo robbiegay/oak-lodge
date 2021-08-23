@@ -52,13 +52,13 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <p>
-                                    Rate: $250 per night + 6% tax
+                                    Rate: $250 per night + 7% sales tax and room tax
                                 </p>
                                 <p>
                                     Price includes cleaning fee. Excessive mess or damage to property may result in additional expenses. Certain high demand periods may require a minimum stay (bourbon chase, Keeneland, etc.)
                                 </p>
                                 <p>
-                                    To inquire about availability or book a stay, please email Judi Fryer at: example@oaklodge1818.com
+                                    To inquire about availability or book a stay, please email Judi Fryer at: <a href="mailto:fryantique@roadrunner.com">fryantique@roadrunner.com</a>
                                 </p>
                             </TextBox>
                         </Col>
