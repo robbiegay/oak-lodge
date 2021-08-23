@@ -117,7 +117,7 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/bathroom.JPG"}
+                                        src={process.env.PUBLIC_URL + "/images/bathroomBlur.JPG"}
                                         alt="First floor bathroom"
                                     />
                                     <Carousel.Caption>
@@ -216,7 +216,7 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/backRenovations.JPG"}
+                                        src={process.env.PUBLIC_URL + "/images/backRenovationsBlur.JPG"}
                                         alt="Back additions"
                                     />
 
@@ -228,7 +228,7 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/stairRenovations1.JPG"}
+                                        src={process.env.PUBLIC_URL + "/images/stairRenovations1Blur.JPG"}
                                         alt="Stairs Before"
                                     />
 
@@ -240,7 +240,7 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/stairRenovations2.JPG"}
+                                        src={process.env.PUBLIC_URL + "/images/stairRenovations2Blur.JPG"}
                                         alt="Stairs After"
                                     />
 
@@ -252,7 +252,7 @@ export default function Photos() {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src={process.env.PUBLIC_URL + "/images/stairRenovations3.JPG"}
+                                        src={process.env.PUBLIC_URL + "/images/stairRenovations3Blur.JPG"}
                                         alt="Chainsaw"
                                     />
 
