@@ -38,7 +38,7 @@ export default function About() {
                                 </h2>
 
                                 <p>
-                                    In the mid-2000’s, the cabin fell out of use and began to deteriorate. For over a decade, the cabin sat empty. In 2020, Bob and Judi Fryer bought the property and began renovations. This projects was especially important to them as Bob is a decedent of the Bond family, and still lives on Bond/McKee land. Renovations were undertaken by master cabin carpenter Trinity Satterley. Trinity worked on the cabin every Saturday for a year and completed work in the summer of 2021.
+                                    In the mid-2000’s, the cabin fell out of use and began to deteriorate. For over a decade, the cabin sat empty. In 2020, Bob and Judi Fryer bought the property and began renovations. This project was especially important to them as Bob is a decedent of the Bond family, and still lives on Bond/McKee land. Renovations were undertaken by master cabin carpenter Trinity Satterley. Trinity worked on the cabin every Saturday for a year and completed work in the summer of 2021.
                                 </p>
                                 <p>
                                     Renovation included: adding a bathroom and two porches (one covered, one uncovered, to the back of the cabin; flipping the orientation of the stairs to provide better flow to the loft; chinking and repairing exterior damage that occurred during the cabin’s vacancy. One thing that did not need much work was the 200 year old white oak logs — they were still in pristine condition.

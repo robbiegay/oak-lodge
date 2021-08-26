@@ -52,7 +52,7 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <p>
-                                    Rate: $250 per night + 7% sales tax and room tax
+                                    Rate: $250 per night + 10% state, room, and city tax
                                 </p>
                                 <p>
                                     Price includes cleaning fee. Excessive mess or damage to property may result in additional expenses. No pets or smoking. Certain high demand periods may require a minimum stay (bourbon chase, Keeneland, etc.)
