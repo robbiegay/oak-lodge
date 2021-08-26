@@ -25,8 +25,8 @@ export default function Home() {
                 
                 <Container>
                     <Row>
-                        <Col xs={1} />
-                        <Col>
+                        <Col xs={0} sm={0} md={0} lg={0} />
+                        <Col xs={12} sm={12} md={8} lg={7}>
                             <TextBox>
                                 <h2>
                                     The Oak Lodge
@@ -55,17 +55,16 @@ export default function Home() {
                                     Rate: $250 per night + 7% sales tax and room tax
                                 </p>
                                 <p>
-                                    Price includes cleaning fee. Excessive mess or damage to property may result in additional expenses. Certain high demand periods may require a minimum stay (bourbon chase, Keeneland, etc.)
+                                    Price includes cleaning fee. Excessive mess or damage to property may result in additional expenses. No pets or smoking. Certain high demand periods may require a minimum stay (bourbon chase, Keeneland, etc.)
                                 </p>
                                 <p>
-                                    To inquire about availability or book a stay, please email Judi Fryer at: <a href="mailto:fryantique@roadrunner.com">fryantique@roadrunner.com</a>
+                                    To inquire about availability or book a stay, please email Judi Fryer at: <a href="mailto:fryantique@roadrunner.com">fryantique@roadrunner.com</a> or call (502) 598-3988
                                 </p>
                             </TextBox>
                         </Col>
-                        <Col xs={5} />
+                        <Col xs={0} sm={0} md={3} lg={4} />
                     </Row>
                 </Container>
-
             </div>
         </>
     );

@@ -14,8 +14,8 @@ export default function About() {
 
                 <Container>
                     <Row>
-                        <Col xs={1} />
-                        <Col>
+                        <Col xs={0} sm={0} md={0} lg={0} />
+                        <Col xs={12} sm={12} md={8} lg={7}>
                             <TextBox>
                                 <h2>
                                     Early History
@@ -53,7 +53,7 @@ export default function About() {
                                 </p>
                             </TextBox>
                         </Col>
-                        <Col xs={5} />
+                        <Col xs={0} sm={0} md={3} lg={4} />
                     </Row>
                 </Container>
             </div>

@@ -12,8 +12,8 @@ export default function Photos() {
 
                 <Container>
                     <Row>
-                        <Col xs={2} />
-                        <Col>
+                        <Col xs={0} sm={0} md={0} lg={2} />
+                        <Col xs={12} sm={12} md={12} lg={8}>
                             <Carousel className="darkBorder">
                                 <Carousel.Item>
                                     <img
@@ -107,11 +107,11 @@ export default function Photos() {
                                     <img
                                         className="d-block w-100"
                                         src={process.env.PUBLIC_URL + "/images/main7.JPG"}
-                                        alt="Main room of the first floor"
+                                        alt="Main room of the first floor (pull out bed)"
                                     />
                                     <Carousel.Caption>
                                         <h3>Main room of the first floor</h3>
-                                        <p></p>
+                                        <h4>Blue couch is a pull out bed!</h4>
                                     </Carousel.Caption>
                                 </Carousel.Item>
                                 <Carousel.Item>
@@ -267,7 +267,7 @@ export default function Photos() {
                                 </Carousel.Item>
                             </Carousel>
                         </Col>
-                        <Col xs={2} />
+                        <Col xs={0} sm={0} md={0} lg={2} />
                     </Row>
                 </Container>
             </div>
