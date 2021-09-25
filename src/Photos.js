@@ -233,7 +233,7 @@ export default function Photos() {
                                     />
 
                                     <Carousel.Caption>
-                                        <h3>Before Flipping Stairs</h3>
+                                        <h3>Before flipping stairs</h3>
                                         <p>Trinity Satterley preparing to change the direction of the stairs</p>
                                     </Carousel.Caption>
                                 </Carousel.Item>
@@ -245,7 +245,7 @@ export default function Photos() {
                                     />
 
                                     <Carousel.Caption>
-                                        <h3>After Flipping Stairs</h3>
+                                        <h3>After flipping stairs</h3>
                                         <p>Bob Fryer inspecting the flipped stairs</p>
                                     </Carousel.Caption>
                                 </Carousel.Item>
@@ -258,10 +258,10 @@ export default function Photos() {
 
                                     <Carousel.Caption>
                                         <h3 className="d-inline-flex px-2 bg-dark rounded">
-                                            200 Year Oak Logs
+                                            200 year old oak logs
                                         </h3>
                                         <p className="d-inline-flex px-2 bg-dark rounded">
-                                            The 200 year old white oak logs are so sturdy that a chainsaw had difficulty removing a small portion of one log
+                                            The 200 year old white oak logs are so sturdy that a chainsaw had difficulty removing a small portion of one log.
                                         </p>
                                     </Carousel.Caption>
                                 </Carousel.Item>

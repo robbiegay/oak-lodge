@@ -52,10 +52,10 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <p>
-                                    Rate: $250 per night + 10% state, room, and city tax
+                                    Rate: $150 weekdays, $175 weekends (plus $20 cleaning fee; 10% state, room, and city tax)
                                 </p>
                                 <p>
-                                    Price includes cleaning fee. Excessive mess or damage to property may result in additional expenses. No pets or smoking. Certain high demand periods may require a minimum stay (bourbon chase, Keeneland, etc.)
+                                    Excessive mess or damage to property may result in additional expenses. No pets or smoking. Certain high demand periods may require a minimum stay (Bourbon Chase, Keeneland, etc.)
                                 </p>
                                 <p>
                                     To inquire about availability or book a stay, please email Judi Fryer at: <a href="mailto:fryantique@roadrunner.com">fryantique@roadrunner.com</a> or call (502) 598-3988
