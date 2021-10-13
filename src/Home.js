@@ -52,7 +52,7 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <p>
-                                    Rate: $150 weekdays, $175 weekends (plus $20 cleaning fee; 10% state, room, and city tax)
+                                    Rate: $150 weekdays, $175 weekends (plus $25 cleaning fee; 10% state, room, and city tax)
                                 </p>
                                 <p>
                                     Excessive mess or damage to property may result in additional expenses. No pets or smoking. Certain high demand periods may require a minimum stay (Bourbon Chase, Keeneland, etc.)
