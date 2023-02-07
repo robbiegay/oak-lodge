@@ -36,29 +36,40 @@ export default function Home() {
                                 </p>
                                 <ul>
                                     <li>
-                                        <a href="https://fourrosesbourbon.com/visit/distillery-tours/#curated_tours_list_name=four_roses_distillery_lawrenceburg_ky" title="Four Roses Distillery">Four Roses Distillery</a>: 7 minutes
+                                        <a href="https://fourrosesbourbon.com/" title="Four Roses Distillery">Four Roses Distillery</a>: 7 minutes
                                     </li>
                                     <li>
-                                        <a href="https://wildturkeybourbon.com/visit-us/" title="Wild Turkey Distillery">Wild Turkey Distillery</a>: 8 minutes
+                                        <a href="https://www.wildturkeybourbon.com/" title="Wild Turkey Distillery">Wild Turkey Distillery</a>: 8 minutes
                                     </li>
                                     <li>
                                         <a href="https://visitfrankfort.com/" title="Visit Frankfort">Frankfort</a>: 23 minutes
                                     </li>
                                     <li>
-                                        <a href="https://bluegrassairport.com/index.html" title="Bluegrass Airport">Bluegrass Airport</a>: 24 minutes
+                                        <a href="https://www.bluegrassairport.com/" title="Bluegrass Airport">Bluegrass Airport</a>: 24 minutes
                                     </li>
                                     <li>
                                         <a href="https://www.visitlex.com/" title="Visit Lex">Lexington</a>: 34 minutes
                                     </li>
                                 </ul>
                                 <p>
-                                    Rate: $150 weekdays, $175 weekends (plus $25 cleaning fee; 10% state, room, and city tax)
+                                    Rate: 
+                                    <ul>
+                                        <li>
+                                            Monday - Thursday: $175
+                                        </li>
+                                        <li>
+                                            Friday - Sunday: $200
+                                        </li>
+                                        <li>
+                                            $75 cleaning fee and 10% state, room, and city tax
+                                        </li>
+                                    </ul>
                                 </p>
                                 <p>
                                     Excessive mess or damage to property may result in additional expenses. No pets or smoking. Certain high demand periods may require a minimum stay (Bourbon Chase, Keeneland, etc.)
                                 </p>
                                 <p>
-                                    To inquire about availability or book a stay, please email Judi Fryer at: <a href="mailto:fryantique@roadrunner.com">fryantique@roadrunner.com</a> or call (502) 598-3988
+                                    To inquire about availability or book a stay, please email Judi Fryer at: <a href="mailto:fryantique@roadrunner.com">fryantique@roadrunner.com</a> or call (502) 229-7112
                                 </p>
                             </TextBox>
                         </Col>
